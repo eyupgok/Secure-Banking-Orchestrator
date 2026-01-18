@@ -1,4 +1,4 @@
-package org.eyup;
+package org.eyup.model;
 
 
 public enum TransactionStatus {

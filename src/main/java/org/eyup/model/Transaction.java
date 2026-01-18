@@ -1,4 +1,4 @@
-package org.eyup;
+package org.eyup.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
